@@ -1,5 +1,8 @@
 ---
 title: "Reproductible Research Project"
+output:  
+      html_document:  
+        keep_md: true
 --- 
 1. First we need to read the file we do this by downloading it and unziping the document
 ```{r read}
